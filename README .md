@@ -1,4 +1,4 @@
-# 🤖 Hand Muscle Tone Monitoring in Robot-Assisted Rehabilitation
+#  Hand Muscle Tone Monitoring in Robot-Assisted Rehabilitation
 ### *Paper Notes & Key Insights — Ranzani et al., 2023*
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 The Problem This Paper Solves
+## The Problem This Paper Solves
 
 Robot-assisted rehabilitation is increasingly delivering stroke therapy at home — without a therapist present. This is great for increasing therapy **dose**, but carries a hidden risk: **intensive hand exercises can silently spike muscle tone and spasticity**. If undetected, this leads to pain, joint contractures, and setbacks in recovery.
 
