@@ -1,4 +1,4 @@
-# 🤖 Hand Muscle Tone Monitoring in Robot-Assisted Rehabilitation
+# Hand Muscle Tone Monitoring in Robot-Assisted Rehabilitation
 ### *Notes on Ranzani et al., Frontiers in Robotics and AI (2023)*
 
 <p align="center">
