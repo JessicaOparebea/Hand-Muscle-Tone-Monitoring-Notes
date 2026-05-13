@@ -28,4 +28,4 @@ What makes this work significant is that it embeds safety monitoring *inside* th
 
 ---
 
-> *All figures © Ranzani et al. (2023), published open access under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+> *All figures © Ranzani et al. (2023), published open access.*
