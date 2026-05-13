@@ -1,11 +1,6 @@
 # Hand Muscle Tone Monitoring in Robot-Assisted Rehabilitation
 ### *Notes on Ranzani et al., Frontiers in Robotics and AI (2023)*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Journal-Frontiers%20in%20Robotics%20%26%20AI-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Institution-ETH%20Zurich-e11d48?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Access-CC--BY-22c55e?style=for-the-badge" />
-</p>
 
 This paper proposes an automatic method to monitor hand muscle tone during unsupervised robot-assisted stroke rehabilitation. Using the **ReHandyBot**; a 2-DOF haptic device developed at ETH Zurich,  the system injects brief 20 mm ramp-and-hold perturbations into the patient's fingers every ~3 minutes during therapy, measuring the force response to estimate stiffness and spasticity without pausing the session. Two perturbation speeds (fast: 150 ms, slow: 250 ms) capture both the spinal and transcortical reflex arcs. In a pilot study of 6 stroke patients and 10 unimpaired subjects, stroke patients showed roughly 2× higher fingertip reaction forces (13.7 N vs. 6.8 N), with zero adverse events and muscle tone remained stable or decreased over the session, easing concerns about intensive unsupervised exercise.
 
